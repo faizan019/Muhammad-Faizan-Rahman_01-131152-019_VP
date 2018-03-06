@@ -1,0 +1,6 @@
+c:\users\faizan rehman\documents\visual studio 2013\Projects\assign\assign\bin\Debug\assign.exe.config
+c:\users\faizan rehman\documents\visual studio 2013\Projects\assign\assign\bin\Debug\assign.exe
+c:\users\faizan rehman\documents\visual studio 2013\Projects\assign\assign\bin\Debug\assign.pdb
+c:\users\faizan rehman\documents\visual studio 2013\Projects\assign\assign\obj\Debug\assign.csprojResolveAssemblyReference.cache
+c:\users\faizan rehman\documents\visual studio 2013\Projects\assign\assign\obj\Debug\assign.exe
+c:\users\faizan rehman\documents\visual studio 2013\Projects\assign\assign\obj\Debug\assign.pdb
