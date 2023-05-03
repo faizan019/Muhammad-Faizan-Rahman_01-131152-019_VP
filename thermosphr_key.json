@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "thermosphr-prod",
+  "private_key_id": "09a170f44ff303765804454cad81c5f3b767ee6a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC32UmHgtNdVavw\naa1r88RA8JOpFIOuYSSyRc3GdliFnfGOaZ87m63o7/Ohr79Dd8EkIXudxBOarJwI\nk7Z6iEUAKLVfdoIRzHX5Xn8i94trw/lwRe1KM3LFw5KC+xfMn6L13FsNRHSMuGOr\n4EQpw5QN8of5A+utASrEggXhfXoZkeJveiVP1gCR42sqtciDZtumWNGYmsAkNC0n\nI/ROFTRqnka/s3brDAEXFZO84KC0BEfUoinXgLadWgCJwVOn4Wtt18xXhiBNnFQX\nRaOXuhT2oWhaKrXQN7fnYeFFw/hlaHH7pv6ZChVOZRxXImcovQmZ5gGM3TQ5MRm2\nbTgJEL/7AgMBAAECggEARGTQvllUgUHYS4E8006loVT+UaXAkRQxfyKJuT2Yk+ic\njtLLOnUhXuk5NNq5KAO6ddMA9kGV23JAP86X0YC1TqhWRPPE0pNCBil52YvGsan/\ntx1Ed9io51povFJl2ak/igBWXRqs0xbbeXreUL0h7IhfvisPt1YaT21he6/exvjF\nldMRVKihGFvvyb1Vuua+4AWEu6L0eTWi6e0hSxhXCMtsAk2PpLIPjEVfNF36CXmi\nC5t1EclhBiz7Xn1Jyrj6NOENkpH0NvkMH05aciCBmfnzvTqwkQyaFcjs9YJjygZ+\nn0GuUNTt8IRM+kLjciYrt/Yro9fAKKMgoobNvi7jDQKBgQDdbImmzPrUJLscsmSQ\nW/voh3W15BfUbYp32sbc6aUL+94O4ZpBkfu8PaPtp3XubNTwfk3+U37w5mSboze3\nV8/E8PHbCF/kWTBfcJ0emVXy8vlLceeHUcCHPgPTed6DnHGWlvr3OkIyQAulIfE1\nP49NXdCYX8e18bLGqadURLu1rwKBgQDUjqymmpDl0r3CbqqSMieLyRH2cYy4tlzN\nsIj4KZKXi1U1IpnberLjXgqO4C8j6rvy9UUsgV811c7eUzkxIG0+iZcY32PnczFr\n3HuHXfGD/eWS0+tGsG8qoWMbb9kSxZc67Tf1ePc5ZlP9Z6Wie6kPvHHGVW1GX0X8\n7lFdwMl5dQKBgQCNjpgqBR3OhnUBEaNtDwFrVT6RvHLnoehGW52LGewkTy9VwDFH\n/jY70AR/KPIiLX2tCnJ+R47+H6zuO1ihZAg2VfupFh+H8uUT/wDT0R+7pE5wRy/H\nuSIm1CTKDD2PUnLj3T4w1BQB4CQRvDNi4XGR+oojAAjDbvPmQgvxucdvjQKBgQCc\nH6Oux68QL8eTrYd51H75jJm2A1dSQRhPOJCSfq6ewwe1/JE4BZqpqGRm50GYxwx/\n+ylw9CGDwGSvJj/G1sOHALbL3SFbWl/9krflCNqhkXbzbtbMWEF+9YV/HJs7z4gy\nDxVgJxanwYKFiYC+pMfbuBV1kT+vRcF5c26uRzF1FQKBgBgWeYlNwbXuLYYgDbYA\n01waiyDWms9lfsRglCtY8mOTJCZDW6nDK15Ie4wdqzZVYAfMVnMw/oM1jVEMv2BT\nIS8+OgtEP8zu1jwJVLn6De2y+cKPN6wLWnbUCTovnQrgjodODhmnIKT5HQQ0aeBB\njFDQMnJo9/vkoQ6rQyTZiSE8\n-----END PRIVATE KEY-----\n",
+  "client_email": "thermosphr-prod@appspot.gserviceaccount.com",
+  "client_id": "104554540777511108768",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/thermosphr-prod%40appspot.gserviceaccount.com"
+}
